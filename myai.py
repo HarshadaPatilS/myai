@@ -147,8 +147,8 @@ if __name__ == "__main__":
 
         elif "who are you" in query:
             # Speak and print a response to introduce the assistant
-            speak("I'm AADI created for the purpose of Project Based Learning and I'm a desktop voice assistant.")
-            print("I'm AADI created for the purpose of Project Based Learning and I'm a desktop voice assistant.")
+            speak("I'm AADI created by Harshada and I'm a desktop voice assistant.")
+            print("I'm AADI created by Harshada and I'm a desktop voice assistant.")
 
 
         elif "how are you" in query:
